@@ -73,15 +73,16 @@ body {
 }
 
 .hamburger-menu {
-    width: 32px;
-    height: 28px;
+    width: 45px;
+    height: 32px;
     display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     cursor: pointer;
     padding: 5px;
-    flex-direction: column-reverse;
-    justify-content: space-between;
     position: fixed;
     top: 1%;
+    right: 97%;
 }
 
 .hamburger-menu .bar {
