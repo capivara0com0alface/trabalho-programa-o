@@ -51,9 +51,10 @@ body{
 }
 
 .sociais button{
-    width: 30px;
-    height: 30px;
+    width: 33px;
+    height: 34px;
     margin-right: 5px;
+    cursor: unset;
 }
 
 
