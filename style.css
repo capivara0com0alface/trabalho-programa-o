@@ -24,6 +24,11 @@ header{
     width: 23%;
 }
 
+body{
+    background-image: -moz-linear-gradient(23,23);
+    
+}
+
 .logo img{
     width: 125px;
 }
