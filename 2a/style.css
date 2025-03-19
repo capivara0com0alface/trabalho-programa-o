@@ -113,7 +113,7 @@ body {
 
 .menu ul li a {
     text-decoration: flex;
-    color: #683939;
+    color: #ffffff;
     font-size: 20px;
     text-transform: uppercase;
 }
@@ -123,6 +123,6 @@ body {
     top: 20px;
     right: 20px;
     font-size: 30px;
-    color: white;
+    color: rgb(160, 39, 39);
     cursor: pointer;
 }
