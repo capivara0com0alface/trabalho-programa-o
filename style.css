@@ -32,6 +32,9 @@ body{
 
 .logo img{
     width: 125px;
+    position: relative;
+    left: 545%;
+    bottom: -8px;
 }
 
 .menuI{
