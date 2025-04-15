@@ -141,4 +141,7 @@ body {
 }
 
 .a{
+    position: absolute;
+    bottom: -41%;
+    margin: 28px;
 }
