@@ -139,3 +139,7 @@ body {
     color: rgb(160, 39, 39);
     cursor: pointer;
 }
+
+.a{
+    display: flex;
+}
